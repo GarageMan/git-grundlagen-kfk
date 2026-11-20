@@ -1,1 +1,1 @@
-WIP-Projekt für das ktk "git grundlagen"
+Hallo werte SVA-Crew!
