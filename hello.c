@@ -1,6 +1,5 @@
-main() {
-	print("Hello, world!\n");
-	printf("Proudly presented by: SVA\n";
-	return 0;
+int main() {
+  printf("Hello, SVA!\n");
+  return 0;
 }
 
