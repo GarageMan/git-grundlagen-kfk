@@ -1,1 +1,1 @@
-Hello, SVA-world!
+Hello, world!
